@@ -1,0 +1,2 @@
+# Maze-Blind-Search-Algorithms-
+An an assignment demonstrating 3 blind search algorithms. The ones demonstrated were depth first search, breath first search, and iterative deepening. For this assignment I was required to only do the iterative deepening. The other algorithms were already provided. The display shows the maze and the path to the goal node for the 3 algorithms implemented. Sometimes there is no solution when the maze is randomly created where you are blocked off from the goal node by the maze walls. So you have to run the app multiple times to see results.
